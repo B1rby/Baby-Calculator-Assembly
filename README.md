@@ -8,7 +8,7 @@
 nasm -f elf64 babycalculator.asm -o babycalculator.o
 ld babycalculator.o -o babycalculator
 ``` 
-And for run it
+### And for run it
 ```
 ./babycalculator
 ```  
